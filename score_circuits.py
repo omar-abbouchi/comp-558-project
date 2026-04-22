@@ -104,4 +104,4 @@ if __name__ == '__main__':
 
     score = analyze_circuits(circuit1, circuit2, circuit3)
 
-    print('Score: ' + score)
+    print('Score: ' + str(score))
