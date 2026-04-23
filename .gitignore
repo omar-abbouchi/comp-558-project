@@ -4,4 +4,8 @@ pyproject.toml
 .venv
 __pycache__
 main.py
-
+*.ipynb
+*.pdf
+.*
+!.gitignore
+circuits_test.py
